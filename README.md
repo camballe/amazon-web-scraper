@@ -1,6 +1,6 @@
 # amazon_web-scraper
 
-This is an API built with Bun and Express, that scrapes product data from the amazon website and parses it to JSON.
+This is an API built with Bun and Express, that scrapes product data from the Amazon website and parses it to JSON.
 
 To install dependencies:
 
